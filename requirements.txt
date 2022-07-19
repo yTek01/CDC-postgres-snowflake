@@ -1,0 +1,4 @@
+psycopg2
+kafka-python
+snowflake-connector-python
+python-decouple
